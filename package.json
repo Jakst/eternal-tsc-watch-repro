@@ -1,0 +1,9 @@
+{
+	"name": "eternal-tsc-watch-repro",
+	"scripts": {
+		"watch": "tsc --build --watch"
+	},
+	"devDependencies": {
+		"typescript": "4.3.2"
+	}
+}
